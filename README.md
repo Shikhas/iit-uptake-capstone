@@ -1,5 +1,4 @@
 # iit-uptake-capstone
-Repo for Data Science capstone project collaboration between IIT and Uptake
 
 Problem Objective
 Unlabelled signal data was leveraged by using it to train Autoencoders in order to generate estimated features and use them to improve the performance of a supervised model trained with labels.
